@@ -5,7 +5,7 @@ Head over to the Wiki for more information and the [Assembly Guide](https://gith
 
 ***
 
-[![CC-BY-NC-SA](https://github.com/PancakeLegend/Stylophone/blob/main/Wiki%20Resources/CC-BY-NC-SA.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![CC-BY-NC-SA](https://raw.githubusercontent.com/PancakeLegend/Simon/main/Wiki%20Resources/CC-BY-NC-SA.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 Based on the [ATTiny13 Simon game](https://hackaday.io/project/18952-simon-game-with-attiny13) by Vojtěch Procházka
