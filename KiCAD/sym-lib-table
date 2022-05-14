@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Simon-v2-rescue)(type Legacy)(uri "${KIPRJMOD}/Simon v2-rescue.lib")(options "")(descr ""))
+  (lib (name Simon-rescue)(type Legacy)(uri ${KIPRJMOD}/Simon-rescue.lib)(options "")(descr ""))
+)
