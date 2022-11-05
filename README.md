@@ -1,4 +1,4 @@
-# Simon
+# Simon Memory Game
 Simon memory game for #operationsnowball
 
 Head over to the Wiki for more information and the [Assembly Guide](https://github.com/PancakeLegend/Simon/wiki).
